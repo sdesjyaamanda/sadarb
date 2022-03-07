@@ -1,1 +1,1 @@
-print("")
+print("Šo ierakstu veica Guntis")
